@@ -1,0 +1,5 @@
+# common
+langchain_community
+langchain
+#for mysql
+mysql-connector-python 
